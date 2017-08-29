@@ -1,0 +1,29 @@
+# Robert Magallanes
+## 8-29-2017
+### do_you_git_it
+
+*1. Commit 1
+**Tell me about yourself (hobbies, goals, and anything else you would like me to know)
+***My name is Robert Magallanes, Im attending midland college in pursuit of a degree in network administration. I enjoy gaming, drawing, and all things art
+with goals to get a degree and move out of midland.
+
+*2. commit 2
+**Explain why version control is an important aspect of programming.
+***Version control is important to programming because, it allows for a unclustered desighning experience for both colaboration and solo builds
+with out it any and all edits and progress in your codes cant be tracked thus you have no way of knowing who did what, or what changes were made
+in short it takes away some of the guess work with collaborative builds.
+
+*3. commit 3
+**Using pseudocode, explain this assignment.
+
+***start
+***create new text file
+***answer commit 1.
+***input statement for commit 1.
+***answer commit 2.
+*** input statement for commit 2.
+***answer commit 3.
+***input answer for commit 3.
+***copy url to repository and new branch.
+***submit link in canvas
+***end
