@@ -11,3 +11,18 @@
  +***Version control is important to programming because, it allows for a unclustered desighning experience for both colaboration and solo builds
  +with out it any and all edits and progress in your codes cant be tracked thus you have no way of knowing who did what, or what changes were made
  +in short it takes away some of the guess work with collaborative builds.
+
+ +*3. commit 3
+ +**Using pseudocode, explain this assignment.
+ +
+ +***start
+ +***create new text file
+ +***answer commit 1.
+ +***input statement for commit 1.
+ +***answer commit 2.
+ +*** input statement for commit 2.
+ +***answer commit 3.
+ +***input answer for commit 3.
+ +***copy url to repository and new branch.
+ +***submit link in canvas
+ +***end
